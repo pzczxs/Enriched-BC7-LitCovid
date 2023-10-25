@@ -32,11 +32,9 @@ The enriched BC7_LitCovid_corpus comprises the following tables:
 
 ### 2.13 article_passage
 
-### 2.14 descriptor_qualifier
+### 2.14 descriptor_tree_number
 
-### 2.15 descriptor_tree_number
-
-### 2.16 qualifier_tree_number
+### 2.15 qualifier_tree_number
 
 ## 3. Various Fields
 ### 3.1 Metadata
