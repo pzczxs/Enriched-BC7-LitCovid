@@ -45,5 +45,7 @@ Biological entities can be found in the following table: ```article_annotation``
 MeSH can be found in the following tables: ```article_descriptor```, ```article_descriptor_qualifier```, ```descriptor```, ```descriptor_tree_number```, ```qualifier```, and ```qualifier_tree_number```.
 ### 3.4 Full Texts
 Full texts can be found in the following tables: ```article``` and ```article_passage```.
+### 3.5 Topic Labels
+Topic labels can be found in the following tables: ```article_label``` and ```label```.
 
 ## 3. References
