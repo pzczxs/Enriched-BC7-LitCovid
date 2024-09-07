@@ -1,4 +1,4 @@
-# The Enriched version of BC7-LitCovid corpus
+# The enriched version of BC7-LitCovid corpus
 ## 1. Introduction  
 The [LitCovid dataset](https://www.ncbi.nlm.nih.gov/research/coronavirus/) was established from PubMed database to collect COVID-19-related articles. The dataset is updated daily and the articles are organized into seven research topics: *treatment*, *mechanism*, *prevention*, *case report*, *diagnosis*, *transmission*, and *epidemic forecasting*. For the purpose of automatically annotating the resulting topics, the [LitCovid Track for COVID-19 literature topic annotations in BioCreative VII](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vii/track-5/) called for a community effort. 
 
