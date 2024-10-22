@@ -23,7 +23,7 @@ Topic labels can be found in the following tables: ```article_label``` and ```la
 The compressed files (*bc7_lit_covid_enriched.zip.001*, *bc7_lit_covid_enriched.zip.002*, *bc7_lit_covid_enriched.zip.003*, and *bc7_lit_covid_enriched.zip.004*) are downloaded from this repository, and uncompressed to get a file named *bc7_lit_covid_enriched.sql*. Then, after a new MySQL database named *bc7_lit_covid_enriched* is created, the file *bc7_lit_covid_enriched.sql* can be directly imported into the *bc7_lit_covid_enriched* database. Thus, our enriched version of BC7-LitCovid corpus can be fully loaded into a local MySQL database. 
 
 ## 5. References
-[1] Shuo Xu, Yuefu Zhang, Liang Chen, and Xin An, 2024b. Is Metadata of Articles about COVID-19 enough for Multi-Label Topic Classification Task? *Database*.
+[1] Shuo Xu, Yuefu Zhang, Liang Chen, and Xin An, 2024b. [Is Metadata of Articles about COVID-19 enough for Multi-Label Topic Classification Task](https://doi.org/10.1093/database/baae106)? *Database*, Vol. 2024, pp. baae106.
 
 [2] Shuo Xu, Yuefu Zhang, Xin An, and Sainan Pi, 2024a. [Performance Evaluation of Seven Multi-Label Classification Methods on Real-World Patent and Publication Datasets](https://doi.org/10.2478/jdis-2024-0014). *Journal of Data and Information Science*, Vol. 9, No. 2, pp. 81-103.
 
